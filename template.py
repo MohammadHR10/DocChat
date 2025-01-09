@@ -13,7 +13,8 @@ list_of_files = [
     "setup.py",
     "app.py",
     "research/trials.ipynb",
-   " test.py"
+   " store_index.py",
+     "Data/"  # Adding the new folder
 ]
 
 
